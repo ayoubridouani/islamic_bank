@@ -5,7 +5,7 @@ you have all permission to use my project :)
 Description: this program based on Langage C + Mysql
 
 
-<h2>Configuration:</h2>
+Configuration:
 
 -install mysql-server and gcc in your computer
 
@@ -14,7 +14,7 @@ Description: this program based on Langage C + Mysql
 -don't forget to include path mysql.h in this program
 
 
-<h2>How to use:</h2>  
+How to use:
 this program to split in two
 
 1-a customer will create an account with our bank
