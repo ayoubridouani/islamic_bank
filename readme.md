@@ -1,5 +1,7 @@
 ## Description: 
 this program based on Langage C + Mysql
+  - the customer can create an account with our bank
+  - the customer can do the debit / credit
 
 
 ## Configuration:
@@ -11,10 +13,6 @@ this program based on Langage C + Mysql
 - don't forget to include path mysql.h with this program
 
 
-## How to use:
-
-- the customer can create an account with our bank
-- the customer can do the debit / credit
 
 ## for the next update I will add:
 - When registering a client we will treat that the email is unique in the database gives
